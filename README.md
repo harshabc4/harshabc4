@@ -13,7 +13,7 @@
     <a href="https://twitter.com/Brian_Harsha4" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://angel.co/u/brian-harsha" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="https://github.com/harshabc4/harshabc4/files/8544655/Brian-Harsha-Resume.pdf" target="_blank">
