@@ -28,7 +28,7 @@
     <td width="50%" valign="top">
       <h3 align="center">brianharsha.netlify.app/</h3>
         <br />
-        <a target="_blank" href="https://brianharsha.netlify.app/">
+        <a target="_blank" href="https://brianharsha.netlify.app">
             <img src="https://user-images.githubusercontent.com/97787737/164574361-50e97f90-707d-496c-8533-8988b7260f4c.png" width="100%" alt="My porfolio splash page"/>
         </a>
         <br />
