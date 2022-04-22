@@ -22,6 +22,29 @@
 </p>
 
 <h2 align="center">Projects</h2>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">brianharsha.netlify.app/</h3>
+        <br />
+        <a target="_blank" href="https://brianharsha.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/97787737/164574361-50e97f90-707d-496c-8533-8988b7260f4c.png" width="100%" alt="My porfolio splash page"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://brianharsha.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Website to bring in freelance clients and showcase completed projects</p>
+    </td>
+     </tr>
+</table>
 
 <h2 align="center">Technologies</h1>
 
