@@ -44,6 +44,24 @@
       </p>
         <p><strong>HTML5, CSS3, Javascript</strong> - Website to bring in freelance clients and showcase completed projects</p>
     </td>
+     <td width="50%" valign="top">
+      <h3 align="center">Richmond Custom Woodwork</h3>
+        <br />
+        <a target="_blank" href="https://richmondcustomwoodwork.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/97787737/164815892-a95702f5-30fd-44c5-bf98-12ad8fe41266.png" width="100%" alt="local business demo page consisting of my woodworking projects"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/harshabc4/RichmondCustomWoodwork" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://richmondcustomwoodwork.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript</strong> - Demo website of my carpentry and woodworking projects framed as a small business to use as a template/showcase for future freelance work.</p>
+    </td>
      </tr>
 </table>
 
