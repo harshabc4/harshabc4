@@ -85,7 +85,7 @@ My two passions are coding and carpentry.  Different skillsets that have a surpi
      <td width="50%" valign="top">
       <h3 align="center">War Card Game</h3>
         <br />
-        <a target="_blank" href="https://github.com/harshabc4/WarCardGame">
+        <a target="_blank" href="https://warcardgameharshabc4.netlify.app/">
             <img src="https://user-images.githubusercontent.com/97787737/164892463-b1030ce6-8850-4c49-a482-2ace7436271f.png"/>
         </a>
         <br />
