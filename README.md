@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Brian Harsha </br> Software engineer at 100Devs</h1>
-<img src=https://user-images.githubusercontent.com/97787737/164890920-bdf1ecac-ed92-4fe5-8a73-c0a22802f278.png>
-
-
+<h1>
+  <img src="https://user-images.githubusercontent.com/97787737/164891961-73bc05bb-f490-46f4-af0c-29bd0d4d6c02.png" width=100%>
+  </h1>
 
 <p align="center">
   <a href="https://brianharsha.netlify.app/" target="_blank">
