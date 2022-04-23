@@ -63,6 +63,44 @@
         <p><strong>HTML5, CSS3, Javascript</strong> - Demo website of my carpentry and woodworking projects framed as a small business to use as a template/showcase for future freelance work</p>
     </td>
      </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Architectural Historian Portfolio</h3>
+        <br />
+        <a target="_blank" href="">
+            <img src="https://user-images.githubusercontent.com/97787737/164890380-7d4ded61-abfa-4f27-bed0-87b835865e78.png" width="100%" alt="Architectural Historian portfolio website"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/harshabc4/ArchitecturalHistorian" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript</strong> - Created with the intention of giving prospective employers or committee heads a place of reference for their work.</p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">War Card Game</h3>
+        <br />
+        <a target="_blank" href="">
+            <img src=""/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript</strong> - API Testing</p>
+    </td>
+     </tr>
 </table>
 
 <h2 align="center">Technologies</h1>
