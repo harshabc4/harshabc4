@@ -67,7 +67,7 @@ My two passions are coding and carpentry.  Different skillsets that have a surpi
     <td width="50%" valign="top">
       <h3 align="center">Architectural Historian Portfolio</h3>
         <br />
-        <a target="_blank" href="">
+        <a target="_blank" href="https://elisabethprice.netlify.app/">
             <img src="https://user-images.githubusercontent.com/97787737/164890380-7d4ded61-abfa-4f27-bed0-87b835865e78.png" width="100%" alt="Architectural Historian portfolio website"/>
         </a>
         <br />
@@ -76,7 +76,7 @@ My two passions are coding and carpentry.  Different skillsets that have a surpi
   <a href="https://github.com/harshabc4/ArchitecturalHistorian" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="" target="_blank">
+  <a href="https://elisabethprice.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
