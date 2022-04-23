@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Harsha </br> Software engineer at 100Devs</h1>
+<img src=https://user-images.githubusercontent.com/97787737/164890920-bdf1ecac-ed92-4fe5-8a73-c0a22802f278.png>
 
 
-<h3 align="center">My two passions are coding and carpentry.  Different skillsets that have a surpising amount of similarities.  Whether it's with a saw and tape measurer or mouse and keyboard, I love to solve a problem and build something.</h3>
 
 <p align="center">
   <a href="https://brianharsha.netlify.app/" target="_blank">
@@ -20,6 +20,8 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
+
+<h3 align="center">My two passions are coding and carpentry.  Different skillsets that have a surpising amount of similarities.  Whether it's with a saw and tape measurer or mouse and keyboard, I love to solve a problem and build something.</h3>
 
 
 <h2 align="center">Projects</h2>
