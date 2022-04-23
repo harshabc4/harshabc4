@@ -85,8 +85,8 @@ My two passions are coding and carpentry.  Different skillsets that have a surpi
      <td width="50%" valign="top">
       <h3 align="center">War Card Game</h3>
         <br />
-        <a target="_blank" href="">
-            <img src=""/>
+        <a target="_blank" href="https://github.com/harshabc4/WarCardGame">
+            <img src="https://user-images.githubusercontent.com/97787737/164892463-b1030ce6-8850-4c49-a482-2ace7436271f.png"/>
         </a>
         <br />
         <p align="center">
@@ -98,7 +98,8 @@ My two passions are coding and carpentry.  Different skillsets that have a surpi
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript</strong> - API Testing</p>
+        <p><strong>HTML5, CSS3, Javascript</strong> - Small project to learn more about APIs and how to manipulate them.
+</p>
     </td>
      </tr>
 </table>
