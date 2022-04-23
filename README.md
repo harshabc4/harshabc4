@@ -1,6 +1,5 @@
-<h1>
-  <img src="https://user-images.githubusercontent.com/97787737/164891961-73bc05bb-f490-46f4-af0c-29bd0d4d6c02.png" width=100%>
-  </h1>
+<img src="https://user-images.githubusercontent.com/97787737/164891961-73bc05bb-f490-46f4-af0c-29bd0d4d6c02.png" width=100%>
+
 
 <p align="center">
   <a href="https://brianharsha.netlify.app/" target="_blank">
@@ -20,10 +19,10 @@
   </a>
 </p>
 
-<h3 align="center">My two passions are coding and carpentry.  Different skillsets that have a surpising amount of similarities.  Whether it's with a saw and tape measurer or mouse and keyboard, I love to solve a problem and build something.</h3>
+My two passions are coding and carpentry.  Different skillsets that have a surpising amount of similarities.  Whether it's with a saw and tape measurer or mouse and keyboard, I love to solve a problem and build something.
 
 
-<h2 align="center">Projects</h2>
+<h1 align="center">Projects</h2>
 <table bordercolor="#66b2b2">
   
   <tr>
