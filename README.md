@@ -19,7 +19,7 @@
   </a>
 </p>
 
-My two passions are coding and carpentry.  Different skillsets that have a surpising amount of similarities.  Whether it's with a saw and tape measurer or mouse and keyboard, I love to solve a problem and build something.
+My two passions are coding and carpentry.  Different skillsets that have a surpising amount of similarities.  Whether it's with a saw and tape measure or mouse and keyboard, I love to solve a problem and build something.
 
 
 <h1 align="center">Projects</h2>
