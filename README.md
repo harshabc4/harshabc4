@@ -91,7 +91,7 @@ My two passions are coding and carpentry.  Different skillsets that have a surpi
         <br />
         <p align="center">
           
-  <a href="https://github.com/harshabc4/monday-motivation" target="_blank">
+  <a href="https://github.com/nrooney024/monday-motivation" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://monday-motivation.herokuapp.com/" target="_blank">
