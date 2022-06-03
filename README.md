@@ -83,22 +83,22 @@ My two passions are coding and carpentry.  Different skillsets that have a surpi
         <p><strong>HTML5, CSS3, Javascript</strong> - Created with the intention of giving prospective employers or committee heads a place of reference for their work.</p>
     </td>
      <td width="50%" valign="top">
-      <h3 align="center">War Card Game</h3>
+      <h3 align="center">Motivation Monday</h3>
         <br />
-        <a target="_blank" href="https://warcardgameharshabc4.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/97787737/164892463-b1030ce6-8850-4c49-a482-2ace7436271f.png"/>
+        <a target="_blank" href="https://monday-motivation.herokuapp.com/">
+            <img src="https://user-images.githubusercontent.com/97787737/171953983-26b0e659-855e-4bc4-b46a-e4744a9d5779.png"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/harshabc4/WarCardGame" target="_blank">
+  <a href="https://github.com/harshabc4/monday-motivation" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://warcardgameharshabc4.netlify.app/" target="_blank">
+  <a href="https://monday-motivation.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript</strong> - Small project to learn more about APIs and how to manipulate them.
+        <p><strong>HTML5, CSS3, Javascript, Node.js</strong> - As a small team of developers we built this full stack application to bring a little motivation for those preparing for a long day or week.
 </p>
     </td>
      </tr>
@@ -111,4 +111,5 @@ My two passions are coding and carpentry.  Different skillsets that have a surpi
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=Node.js&color=43853D&style=plastic&logo=Node.js"/>
 </p>
