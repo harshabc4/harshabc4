@@ -65,22 +65,22 @@ My two passions are coding and carpentry.  Different skillsets that have a surpi
      </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Architectural Historian Portfolio</h3>
+      <h3 align="center">LogIt</h3>
         <br />
-        <a target="_blank" href="https://elisabethprice.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/97787737/164890380-7d4ded61-abfa-4f27-bed0-87b835865e78.png" width="100%" alt="Architectural Historian portfolio website"/>
+        <a target="_blank" href="https://logit-bh.herokuapp.com/">
+            <img src="https://user-images.githubusercontent.com/97787737/175576763-2f60f671-129d-4630-b9f7-e0d7999cc5ff.png" width="100%" alt="dark color scheme homepage for full-stack application that handles material logging"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/harshabc4/ArchitecturalHistorian" target="_blank">
+  <a href="https://github.com/harshabc4/logit" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://elisabethprice.netlify.app/" target="_blank">
+  <a href="https://logit-bh.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript</strong> - Created with the intention of giving prospective employers or committee heads a place of reference for their work.</p>
+        <p><strong>Sass, Bootstrap, Node.js, Express, MongoDB</strong> - Full-stack web application for managing jobsite materials. Helps keep construction jobs running smoothly by limiting bottlenecks.</p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Motivation Monday</h3>
@@ -112,4 +112,8 @@ My two passions are coding and carpentry.  Different skillsets that have a surpi
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
   <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=43853D&style=plastic&logo=Node.js"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
 </p>
