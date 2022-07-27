@@ -27,22 +27,22 @@ My two passions are coding and carpentry.  Different skillsets that have a surpi
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Brian Harsha Homepage</h3>
+      <h3 align="center">Finish Line</h3>
         <br />
-        <a target="_blank" href="https://brianharsha.netlify.app">
-            <img src="https://user-images.githubusercontent.com/97787737/164574361-50e97f90-707d-496c-8533-8988b7260f4c.png" width="100%" alt="My porfolio splash page"/>
+        <a target="_blank" href="https://finishlineprojectboard.herokuapp.com/">
+            <img src="https://user-images.githubusercontent.com/97787737/181292311-034f73dd-3e4b-4e85-a672-9ac718f8fc6b.png" width="100%" alt="Finish Line project planning web application homepage"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/harshabc4/BrianHarshaHomepage" target="_blank">
+  <a href="https://github.com/harshabc4/finishlineprojectboard" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://brianharsha.netlify.app/" target="_blank">
+  <a href="https://finishlineprojectboard.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript</strong> - Website to bring in freelance clients and showcase completed projects</p>
+        <p><strong>MongoDB, Express, Node, React</strong> - Full-stack MERN web application for planning out your day, week, or year and keeping projects organized.</p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Richmond Custom Woodwork</h3>
