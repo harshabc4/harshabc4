@@ -86,7 +86,7 @@ My two passions are coding and carpentry.  Different skillsets that have a surpi
       <h3 align="center">Motivation Monday</h3>
         <br />
         <a target="_blank" href="https://monday-motivation.herokuapp.com/">
-            <img src="https://user-images.githubusercontent.com/97787737/171953983-26b0e659-855e-4bc4-b46a-e4744a9d5779.png"/>
+            <img src="https://user-images.githubusercontent.com/97787737/181293697-a1434c98-d74c-4bea-9c2b-96fe3f2d52a8.png"/>
         </a>
         <br />
         <p align="center">
