@@ -14,7 +14,7 @@
   <a href="https://angel.co/u/brian-harsha" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://github.com/harshabc4/harshabc4/files/9201312/Brian-Harsha-Resume.pdf" target="_blank">
+  <a href=https://github.com/harshabc4/harshabc4/files/10866352/Brian-Harsha-Resume.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
